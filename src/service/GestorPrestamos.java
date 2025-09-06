@@ -1,4 +1,10 @@
-package model;
+package service;
+
+import service.interfaces.CalculadoraMulta;
+import service.interfaces.Notificador;
+import model.Libro;
+import model.Prestamo;
+import model.Usuario;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,6 @@
-package model;
+package service;
+
+import service.interfaces.CalculadoraMulta;
 
 //Multa reducida para estudiantes: $5 por día
 //Implementación concreta de CalculadoraMulta

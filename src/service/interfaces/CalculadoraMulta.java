@@ -1,4 +1,4 @@
-package model;
+package service.interfaces;
 
 
 //Aplicando el principio OCP (Open/Closed Principle)

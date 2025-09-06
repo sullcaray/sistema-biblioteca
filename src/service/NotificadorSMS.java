@@ -1,4 +1,6 @@
-package model;
+package service;
+
+import service.interfaces.Notificador;
 
 /**
  * Notifica por SMS

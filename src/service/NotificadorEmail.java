@@ -1,7 +1,9 @@
-package model;
+package service;
 
 
- //Notifica por email
+import service.interfaces.Notificador;
+
+//Notifica por email
  // Implementación concreta de Notificador
 public class NotificadorEmail extends Notificador {
     @Override

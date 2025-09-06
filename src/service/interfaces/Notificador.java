@@ -1,4 +1,4 @@
-package model;
+package service.interfaces;
 
 
 //Clase base abstracta para notificaciones

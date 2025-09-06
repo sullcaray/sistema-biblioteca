@@ -1,4 +1,6 @@
-package model;
+package service.interfaces;
+
+import model.Usuario;
 
 /**
  * Interface solo para prestar

@@ -1,5 +1,7 @@
-package model;
+package service;
 
+
+import service.interfaces.CalculadoraMulta;
 
 //Multa estándar de $10 por día
 //Implementación concreta de CalculadoraMulta
